@@ -1,3 +1,5 @@
+streamlit>=1.35.0
+altair<5
 pandas
 numpy
 scipy
@@ -6,4 +8,3 @@ tzdata
 pillow
 pytesseract
 rapidocr-onnxruntime
-streamlit
