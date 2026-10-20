@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+requests
+tzdata
+pillow
+pytesseract
+rapidocr-onnxruntime
+streamlit
